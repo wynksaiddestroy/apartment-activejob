@@ -7,7 +7,7 @@ ActiveJob support for Apartment
 Add this line to your application's Gemfile:
 
 ```ruby
-gem 'apartment-activejob'
+gem 'ros-apartment-activejob', require: 'apartment-activejob'
 ```
 
 And then execute:
@@ -16,7 +16,7 @@ And then execute:
 
 Or install it yourself as:
 
-    $ gem install apartment-activejob
+    $ gem install ros-apartment-activejob
 
 ## Usage
 
